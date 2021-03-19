@@ -1,5 +1,5 @@
 ## Welcome to Math Utility Repository. This repo offers various math methods used as a helper for your project.
-Hello
+
 ### You will find in this repo the following stuff:
 
 * .gitinore itself to demonnstrate how Git tool will upload a file or not
@@ -13,5 +13,5 @@ Hello
 
 [My email](nguyentienhung6967@gmail.com)
 
-© 2021 Nguyen Tien Hung--
+© 2021 Nguyen Tien Hung
 
