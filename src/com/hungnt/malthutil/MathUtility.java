@@ -32,7 +32,7 @@ public class MathUtility {
         if(n==0 | n==1)
             return 1; // khỏi mất công tính, return ngay
         
-        long result = 0; 
+        long result = 1; 
         
         //sống sót đến đoạn này, sure n= 2..20
         for (int i = 2; i <= n; i++) 

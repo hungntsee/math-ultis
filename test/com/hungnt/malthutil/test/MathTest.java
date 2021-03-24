@@ -7,8 +7,10 @@ package com.hungnt.malthutil.test;
  */
 
 import static com.hungnt.malthutil.MathUtility.*; // tao mun cac ham bien trong class go truc tiep luon 
+                                                 //go truc tiep ko can class cham 
+
+
 import java.sql.SQLException;
-                                        //go truc tiep ko can class cham 
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
