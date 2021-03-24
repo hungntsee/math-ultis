@@ -1,5 +1,7 @@
 ## Welcome to Math Utility Repository. This repo offers various math methods used as a helper for your project.
 
+[![MathUtil | Demo CI Proces | © 2021 TienHung](https://github.com/hungntsee/math-ultis/actions/workflows/main.yml/badge.svg)](https://github.com/hungntsee/math-ultis/actions/workflows/main.yml)
+
 ### _You will find in this repo the following stuff:_
 
 * .gitinore itself to demonnstrate how Git tool will upload a file or not
